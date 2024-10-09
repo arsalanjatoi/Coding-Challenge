@@ -1,5 +1,5 @@
 Bracket Validator
-NOTE: IT WAS A CODING CHALLENGE BY TURING, I HAVE SUCCESSFULLY ATTEMPTED IT ALTHOUGH IT TOOK A LITTLE TIME OF MINE BUT AT THE END I WAS SO EXCITED TO TEST IT AGAIN AND AGAIN.
+NOTE: IT WAS A CODING CHALLENGE BY TURING, I HAVE SUCCESSFULLY ATTEMPTED IT ALTHOUGH IT TOOK A LITTLE TIME OF MINE BUT AT THE END, I WAS SO EXCITED TO TEST IT AGAIN AND AGAIN.
 
 This is a PHP-based web solution that validates whether a given string of brackets is valid or invalid. The program checks for the correct pairing of parentheses (), curly braces {}, and square brackets [] in the input string.
 
@@ -50,10 +50,6 @@ check_for_closing_postion():
 Helper function that looks for matching closing brackets for each opening bracket.
 Input Validation
 The program ensures that the input string length is between 1 and 104 characters, which is a reasonable constraint to handle common cases of bracket string validation.
-
-Styling
-The HTML output is styled using embedded CSS to provide visual feedback (green for Valid, red for Invalid).
-
 Examples
 Valid Input:
 ()[]{}
